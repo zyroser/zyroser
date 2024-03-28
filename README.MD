@@ -6,8 +6,8 @@
 
 ````zsh
 > help --contact
-> discord: baby.aris
-> mailto: 
+> instagram: zyroser
+> mailto:
 ````
 ---
 
